@@ -1,0 +1,15 @@
+h1.brand-heading{
+  text-shadow:1px 1px 20px rgba(0,0,0,0.5) !important;
+}
+.page-scroll,
+nav{
+  text-shadow:1px 1px 10px rgba(0,0,0,0.5) !important;
+}
+
+.page-scroll:hover{
+  color:#D52E2E !important;
+}
+.red{
+  color:#D52E2E;
+  margin-left:-3px;
+}

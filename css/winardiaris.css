@@ -1,3 +1,7 @@
+body {
+  overflow:hidden;
+  overflow-y:hidden;
+}
 h1.brand-heading{
   text-shadow:1px 1px 20px rgba(0,0,0,0.5) !important;
 }
